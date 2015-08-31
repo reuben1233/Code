@@ -1,0 +1,8 @@
+#Permission true by default
+permissions: true
+#Editable text for text above compass use the § key for colors
+Nearest Player: '§f§lNearest Player: §e'
+Distance: '§f§lDistance: §e'
+Height: '§f§lHeight: §e'
+#Editable text for the spectator menu, use the § key for colors
+#Coming Soon
